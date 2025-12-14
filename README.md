@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Current Project: Developing Match My Roomie, a smart roommate-matching app.<br><br>🧠 Focus: Learning LLMs to enhance AI-driven applications.<br><br>🔍 Looking for: Opportunities in React Js, React Native projects.<br><br>📈 Skills: Mobile app development, multilingual app creation, AI/ML integration.<br><br>💡 Why Me: Quick learner with 6+ years experience, ready to deliver fast results.<br><br>⚡ Fun fact: Adaptable across industries, I blend tech and creative problem-solving.
+🎯 Current Project: Developing Habits by dini, the habit builder that works for real.<br><br>🧠 Focus: Learning LLMs to enhance AI-driven applications.<br><br>🔍 Looking for: Opportunities in React Js, React Native projects.<br><br>📈 Skills: Mobile app development, multilingual app creation, AI/ML integration.<br><br>💡 Why Me: Quick learner with 6+ years experience, ready to deliver fast results.<br><br>⚡ Fun fact: Adaptable across industries, I blend tech and creative problem-solving.
 
 
 ## 🌐 Socials:
